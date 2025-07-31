@@ -19,7 +19,3 @@
     "@vitejs/plugin-react": "^4"
   }
 }
-"devDependencies": {
-  "vite": "^5",
-  "@vitejs/plugin-react": "^4"
-}
